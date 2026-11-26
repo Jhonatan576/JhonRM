@@ -1517,7 +1517,7 @@
             </div>
 
             <!-- 2. REPRODUCTOR GLASS FLOTANTE CENTRADO SOBRE LA COMPOSICIÓN FOTOGRÁFICA -->
-            <div id="music-player-slot" class="-mt-6 sm:-mt-24 md:-mt-28 h-[238px] sm:h-[223px]">
+            <div id="music-player-slot" class="-mt-16 sm:-mt-16 md:-mt-20 h-[238px] sm:h-[223px]">
             <div id="music-player-card" class="smoked-glass-player relative z-30 mx-auto w-[80%] sm:w-[300px] rounded-[20px] px-4 py-3 text-white">
                 <!-- Esquina arrastrable: pista sutil "drag me" -->
                 <div class="player-drag-corner" aria-hidden="true"><span>drag me</span></div>
